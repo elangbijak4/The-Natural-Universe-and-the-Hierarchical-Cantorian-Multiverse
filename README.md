@@ -1,0 +1,2 @@
+# The-Natural-Universe-and-the-Hierarchical-Cantorian-Multiverse
+It's proposes Natural Universe framework, describing reality as a discrete,computable,and linguistically representable system. From quantized energy, it derives four theorems linking discreteness, computability, and ontology, forming a Hierarchical Cantorian Multiverse where each level reflects a mode of existence defined by computational capacity.
